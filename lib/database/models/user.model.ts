@@ -1,4 +1,3 @@
-import { LassoSelectIcon } from "lucide-react";
 import { Schema, models, model } from "mongoose";
 
 const UserSchema = new Schema({
